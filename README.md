@@ -19,8 +19,8 @@ I am a Full Stack Software Engineer and Systems Engineering student building sca
 
 * 🎯 **Currently:** Mastering advanced TypeScript automation, high-performance Full Stack architectures, and Linux environment optimization.
 * 💼 **Experience:**
-  * **[National Filling Corp](#) & [Lumentrack](#)** — Developed fluid frontend architectures (Next.js/React/TypeScript) and optimized UI/UX performance.
-  * **[Calle Flora Hotel](#) & [Superseil](#)** — Designed backend logic, REST APIs, and database scaling (PostgreSQL/SQL).
+  * **[National Filling Corp](https://nfc-admin-panel-rust.vercel.app/login) & [Lumentrack](https://www.lumentrack.com/)** — Developed fluid frontend architectures (Next.js/React/TypeScript) and optimized UI/UX performance.
+  * **[Calle Flora Hotel](https://www.calleflorahotel.com/) & [Superseil](https://www.superseil.com/)** — Designed backend logic, REST APIs, and database scaling (PostgreSQL/SQL).
 * 🎓 **Education:** Systems Engineering — Universidad Nacional Experimental Rómulo Gallegos (UNERG), Venezuela.
 * 💡 **Fun fact:** I daily-drive Nobara Linux and love fine-tuning my development scripts and hardware efficiency curves.
 
