@@ -50,6 +50,8 @@ I'm a Full Stack Software Engineer and Systems Engineering student who specializ
 
 <br clear="right"/>
 
+---
+
 
 <h1> 
 	 <img src="https://raw.githubusercontent.com/SyberFoxx/SyberFoxx/8956bcebc74327aa4501aaa47a874f7aed529b35/assets/Hunter's_Guild_Crest.svg" width="40">	
