@@ -14,7 +14,7 @@
 		 About me 
 </h1> 
 
-I'm a Full Stack Software Engineer and Systems Engineering student who specializes in crafting scalable architectures, optimizing user interfaces, and solving real-world technical problems with clean code. I focus on building highly responsive frontend environments and integrating them seamlessly with robust backend logic[cite: 1].
+I'm a Full Stack Software Engineer and Systems Engineering student who specializes in crafting scalable architectures, optimizing user interfaces, and solving real-world technical problems with clean code. I focus on building highly responsive frontend environments and integrating them seamlessly with robust backend logic.
 
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
@@ -49,14 +49,16 @@ I'm a Full Stack Software Engineer and Systems Engineering student who specializ
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
 <br clear="right"/>
+
 ---
+
 
 <h1> 
 	 <img src="https://raw.githubusercontent.com/SyberFoxx/SyberFoxx/8956bcebc74327aa4501aaa47a874f7aed529b35/assets/Hunter's_Guild_Crest.svg" width="40">	
 		 Featured Projects
 </h1> 
 
-<video align="right" src="assets/sin_nombre.mp4" width="280" autoplay loop muted playsinline></video>
+<img align="right" src="assets/animacion.webp" width="280"/>
 
 ### 🎓 Talento UNERG — Professional Linking Platform (Thesis / Graduation Project)
 **Next.js • TypeScript • Tailwind CSS • Supabase**
