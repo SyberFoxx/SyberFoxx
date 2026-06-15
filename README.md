@@ -58,7 +58,7 @@ I'm a Full Stack Software Engineer and Systems Engineering student who specializ
 		 Featured Projects
 </h1> 
 
-<img align="right" src="https://github.com/SyberFoxx/SyberFoxx/blob/main/assets/sin_nombre-ezgif.com-video-to-webp-converter.webp?raw=true" width="280"/>
+<img align="right" src="https://github.com/SyberFoxx/SyberFoxx/blob/main/assets/sin_nombre-ezgif.com-video-to-webp-converter.webp?raw=true" width="360"/>
 
 ### 🎓 Talento UNERG — Professional Linking Platform (Thesis / Graduation Project)
 **Next.js • TypeScript • Tailwind CSS • Supabase**
@@ -81,11 +81,17 @@ I'm a Full Stack Software Engineer and Systems Engineering student who specializ
 		 Github Stats
 </h1> 
 
-<!-- Puedes descomentar estas líneas si deseas usar las tarjetas dinámicas de GitHub Stats -->
-<!-- 
-![Ramses's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyberFoxx&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyberFoxx&layout=compact&theme=tokyonight)
--->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SyberFoxx&show_icons=true&theme=tokyonight" height="195" />
+    </td>
+    <td width="15"></td> 
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyberFoxx&layout=compact&theme=tokyonight" height="195" />
+    </td>
+  </tr>
+</table>
 
 ---
 
