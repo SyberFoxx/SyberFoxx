@@ -1,4 +1,3 @@
-﻿
 </samp> 
 	<center> 
 		<h1><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> Hello! I'm Ramses Sotomayor 
@@ -7,26 +6,23 @@
 		<img src="https://github.com/SyberFoxx/SyberFoxx/blob/main/assets/966688_ioruko_monster-hunter-world-golden-beast-siege.png?raw=true"/> 
 		</p>
 		<p><strong>🇻🇪 Full Stack Software Engineer | React • Next.js • TypeScript • Node.js • Supabase</strong></p>
-		 <p><em>Technical English (Reading) | Native Spanish Speaker</em></p> </center>
+		 <p><em>English: A2 (Strong Technical Reading) | Native Spanish Speaker </em></p> </center>
 		 
  <h1> 
 	 <img src="https://github.com/SyberFoxx/SyberFoxx/blob/main/assets/quest_type_32.png?raw=true" width="35">	
 		 About me 
 </h1> 
 
-I'm a Full Stack Software Engineer and Systems Engineering student who specializes in crafting scalable architectures, optimizing user interfaces, and solving real-world technical problems with clean code. I focus on building highly responsive frontend environments and integrating them seamlessly with robust backend logic.
-
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-* 🎯 **Currently:** Mastering advanced TypeScript automation, high-performance Full Stack architectures, and optimizing Linux-based development environments.
-* 💼 **Background:**
-  * **National Filling Corp & Lumentrack** — Developed fluid frontend architectures using Next.js, React, and TypeScript, leading UI performance optimization and secure payment gateway integrations.
-  * **Calle Flora Hotel & Superseil** — Designed and implemented backend server logic, REST APIs, and real-time availability engines with database scaling (PostgreSQL/SQL).
-* 🌍 **Languages:**
-  * English — (Reading).
-  * Spanish — Native speaker.
-* 🎓 **Education:** Systems Engineering (Informática) — Universidad Nacional Experimental de los Llanos Centrales "Rómulo Gallegos" (UNERG), Venezuela.
-* 💡 **Fun fact:** I daily-drive Nobara Linux and love fine-tuning everything from my development scripts to hardware efficiency curves.
+I am a Full Stack Software Engineer and Systems Engineering student building scalable, high-performance web applications. I specialize in bridging seamless frontend interfaces with robust backend logic using clean, maintainable code.
+
+* 🎯 **Currently:** Mastering advanced TypeScript automation, high-performance Full Stack architectures, and Linux environment optimization.
+* 💼 **Experience:**
+  * **[National Filling Corp](#) & [Lumentrack](#)** — Developed fluid frontend architectures (Next.js/React/TypeScript) and optimized UI/UX performance.
+  * **[Calle Flora Hotel](#) & [Superseil](#)** — Designed backend logic, REST APIs, and database scaling (PostgreSQL/SQL).
+* 🎓 **Education:** Systems Engineering — Universidad Nacional Experimental Rómulo Gallegos (UNERG), Venezuela.
+* 💡 **Fun fact:** I daily-drive Nobara Linux and love fine-tuning my development scripts and hardware efficiency curves.
 
 <br clear="right"/>
 
@@ -60,17 +56,22 @@ I'm a Full Stack Software Engineer and Systems Engineering student who specializ
 
 <img align="right" src="https://github.com/SyberFoxx/SyberFoxx/blob/main/assets/sin_nombre-ezgif.com-video-to-webp-converter.webp?raw=true" width="460"/>
 
-### 🎓 Talento UNERG — Professional Linking Platform (Thesis / Graduation Project)
+### 🤖 Multi-Platform Automation Bots
+**Node.js • TypeScript • REST APIs**
+* Engineered high-performance automated bots for Discord, Telegram, and WhatsApp ecosystems.
+* Implemented interactive dynamic menus, canvas-based profile cards, and real-time request handling.
+
+### 🎓 Talento UNERG — Professional Linking Platform
 **Next.js • TypeScript • Tailwind CSS • Supabase**
-* Designed and deployed a complete technological platform aimed at managing student internships and professional networking for the university ecosystem.
+* Designed a complete platform aimed at managing student internships and professional networking for the university ecosystem.
 * Centralizes user roles, data persistence, and secure real-time status management.
 
 ### 🏋️ Gym System Project — Management Ecosystem
 **React • TypeScript • Global State**
-* Independently conceived and built a modular sports management platform to handle complex administrative workflows.
-* Optimized client-side rendering times by utilizing a completely decoupled component architecture and structured global state synchronization.
+* Independently built a modular sports management platform to handle complex administrative workflows.
+* Optimized client-side rendering times by utilizing a completely decoupled component architecture.
 
-🔒 **Professional Note:** A significant part of my commercial experience with companies like *Houzez*, *Hunters Concept Hotel*, and others is protected under strict confidentiality agreements. I am more than happy to elaborate on the technical challenges, architecture patterns, and engineering decisions I faced in those roles during technical interviews.
+🔒 **Professional Note:** A significant part of my commercial experience is protected under strict confidentiality agreements. I am more than happy to elaborate on the technical challenges, architecture patterns, and engineering decisions during technical interviews.
 
 <br clear="right"/>
 
