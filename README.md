@@ -58,7 +58,7 @@ I'm a Full Stack Software Engineer and Systems Engineering student who specializ
 		 Featured Projects
 </h1> 
 
-<video align="right" src="assets/sin_nombre.mp4" width="280" autoplay loop muted playsinline></video>
+<img align="right" src="assets/animacion.webp" width="280"/>
 
 ### 🎓 Talento UNERG — Professional Linking Platform (Thesis / Graduation Project)
 **Next.js • TypeScript • Tailwind CSS • Supabase**
