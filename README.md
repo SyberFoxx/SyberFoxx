@@ -58,7 +58,7 @@ I'm a Full Stack Software Engineer and Systems Engineering student who specializ
 		 Featured Projects
 </h1> 
 
-<img align="right" src="https://github.com/SyberFoxx/SyberFoxx/blob/main/assets/sin_nombre-ezgif.com-video-to-webp-converter.webp?raw=true" width="360"/>
+<img align="right" src="https://github.com/SyberFoxx/SyberFoxx/blob/main/assets/sin_nombre-ezgif.com-video-to-webp-converter.webp?raw=true" width="460"/>
 
 ### 🎓 Talento UNERG — Professional Linking Platform (Thesis / Graduation Project)
 **Next.js • TypeScript • Tailwind CSS • Supabase**
@@ -86,7 +86,6 @@ I'm a Full Stack Software Engineer and Systems Engineering student who specializ
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=SyberFoxx&show_icons=true&theme=tokyonight" height="195" />
     </td>
-    <td width="15"></td> 
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyberFoxx&layout=compact&theme=tokyonight" height="195" />
     </td>
