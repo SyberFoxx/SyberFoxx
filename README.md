@@ -7,7 +7,7 @@
 		<img src="https://github.com/SyberFoxx/SyberFoxx/blob/main/assets/966688_ioruko_monster-hunter-world-golden-beast-siege.png?raw=true"/> 
 		</p>
 		<p><strong>🇻🇪 Full Stack Software Engineer | React • Next.js • TypeScript • Node.js • Supabase</strong></p>
-		 <p><em>Fluent in English | Native Spanish Speaker</em></p> </center>
+		 <p><em>Technical English (Reading) | Native Spanish Speaker</em></p> </center>
 		 
  <h1> 
 	 <img src="https://github.com/SyberFoxx/SyberFoxx/blob/main/assets/quest_type_32.png?raw=true" width="35">	
@@ -23,7 +23,7 @@ I'm a Full Stack Software Engineer and Systems Engineering student who specializ
   * **National Filling Corp & Lumentrack** — Developed fluid frontend architectures using Next.js, React, and TypeScript, leading UI performance optimization and secure payment gateway integrations.
   * **Calle Flora Hotel & Superseil** — Designed and implemented backend server logic, REST APIs, and real-time availability engines with database scaling (PostgreSQL/SQL).
 * 🌍 **Languages:**
-  * English — Professional working proficiency.
+  * English — (Reading).
   * Spanish — Native speaker.
 * 🎓 **Education:** Systems Engineering (Informática) — Universidad Nacional Experimental de los Llanos Centrales "Rómulo Gallegos" (UNERG), Venezuela.
 * 💡 **Fun fact:** I daily-drive Nobara Linux and love fine-tuning everything from my development scripts to hardware efficiency curves.
@@ -58,7 +58,7 @@ I'm a Full Stack Software Engineer and Systems Engineering student who specializ
 		 Featured Projects
 </h1> 
 
-<img align="right" src="assets/animacion.webp" width="280"/>
+<img align="right" src="https://github.com/SyberFoxx/SyberFoxx/blob/main/assets/sin_nombre-ezgif.com-video-to-webp-converter.webp?raw=true" width="280"/>
 
 ### 🎓 Talento UNERG — Professional Linking Platform (Thesis / Graduation Project)
 **Next.js • TypeScript • Tailwind CSS • Supabase**
