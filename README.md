@@ -81,16 +81,11 @@ I'm a Full Stack Software Engineer and Systems Engineering student who specializ
 		 Github Stats
 </h1> 
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SyberFoxx&show_icons=true&theme=tokyonight" height="195" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyberFoxx&layout=compact&theme=tokyonight" height="195" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyberFoxx&show_icons=true&theme=tokyonight" height="175" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyberFoxx&layout=compact&theme=tokyonight" height="175" />
+</p>
 
 ---
 
